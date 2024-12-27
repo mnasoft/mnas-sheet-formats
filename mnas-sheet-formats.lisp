@@ -1,6 +1,6 @@
-;;;; acad-formats.lisp
+;;;; ./mnas-sheet-formats.lisp
 
-(defpackage :acad-formats
+(defpackage :mnas-sheet-formats
   (:use #:cl)
   (:export *A0*
            *B0*
