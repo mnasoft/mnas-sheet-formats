@@ -8,7 +8,7 @@
   (:export fmt)
   (:export print-formats))
 
-(in-package :acad-formats)
+(in-package :mnas-sheet-formats)
 
 (defparameter *A0*
   (list (/ 1000 (sqrt (sqrt 2)))
